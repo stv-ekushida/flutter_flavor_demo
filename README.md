@@ -1,4 +1,4 @@
-# flutterflavordemo
+# flutter-flavor-demo
 開発環境ごとにビルド設定を行う
 
 ## 手順
